@@ -1,0 +1,6 @@
+{
+  "appId": "br.com.calendario.app",
+  "appName": "Calendário",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
